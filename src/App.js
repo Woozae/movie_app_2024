@@ -7,7 +7,7 @@ import Detail from './routes/Detail';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/movie_app_2024">
       <Navigation />
       <Routes>
         <Route path="/" element={<Home />} />
