@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Woozae/movie_app_2024.git/static/css/main.ae19bd4a.css",
+    "main.js": "/Woozae/movie_app_2024.git/static/js/main.f53d4827.js",
+    "index.html": "/Woozae/movie_app_2024.git/index.html",
+    "main.ae19bd4a.css.map": "/Woozae/movie_app_2024.git/static/css/main.ae19bd4a.css.map",
+    "main.f53d4827.js.map": "/Woozae/movie_app_2024.git/static/js/main.f53d4827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae19bd4a.css",
+    "static/js/main.f53d4827.js"
+  ]
+}
